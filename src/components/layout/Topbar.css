@@ -1,0 +1,29 @@
+.navbar navbar-expand-lg navbar-light bg-light{
+    color: white;
+    background: #239C4B; 
+}
+
+/* .nav-link{
+    background: whitesmoke;
+} */
+.nav-link:hover{
+    color: white;
+    background: #456765;
+}
+
+.footer{ 
+    background-color: #239b4c;
+    color: white
+}
+
+a{
+    color: white
+}
+
+.copy-right{
+    color: white;
+}
+
+
+
+

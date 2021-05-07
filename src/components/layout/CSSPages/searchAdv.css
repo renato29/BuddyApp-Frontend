@@ -1,0 +1,24 @@
+
+.advanced-s{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500
+}
+
+.btn-secondary-s,
+.btn-secondary-s:focus,
+.btn-secondary-s:active {
+    color: #fff;
+    background-color: #00838f !important;
+    border-color: #00838f !important;
+    box-shadow: none
+}
+
+.advanced-s {
+    color: #00838f !important
+}
+
+.form-control-s:focus {
+    box-shadow: none;
+    border: 1px solid #00838f
+}
